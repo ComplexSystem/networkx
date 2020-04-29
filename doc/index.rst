@@ -1,14 +1,12 @@
-..  -*- coding: utf-8 -*-
-
 .. _contents:
 
-Overview
-========
+Software for Complex Networks
+=============================
 
 NetworkX is a Python package for the creation, manipulation, and study
 of the structure, dynamics, and functions of complex networks.
 
-NetworkX provides
+NetworkX provides:
 
 -  tools for the study of the structure and
    dynamics of social, biological, and infrastructure networks;
